@@ -1,0 +1,16 @@
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Rating yazilim dilleri\bin\Debug\Rating yazilim dilleri.exe.config
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Rating yazilim dilleri\bin\Debug\Rating yazilim dilleri.exe
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Rating yazilim dilleri\bin\Debug\Rating yazilim dilleri.pdb
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Rating yazilim dilleri\obj\Debug\Rating yazilim dilleri.csproj.AssemblyReference.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Rating yazilim dilleri\obj\Debug\Rating yazilim dilleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Rating yazilim dilleri\obj\Debug\Rating yazilim dilleri.csproj.CoreCompileInputs.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Rating yazilim dilleri\obj\Debug\Rating yazilim dilleri.exe
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Rating yazilim dilleri\obj\Debug\Rating yazilim dilleri.pdb
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Sozcuk uygulama\bin\Debug\Rating yazilim dilleri.exe.config
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Sozcuk uygulama\bin\Debug\Rating yazilim dilleri.exe
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Sozcuk uygulama\bin\Debug\Rating yazilim dilleri.pdb
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Sozcuk uygulama\obj\Debug\Rating yazilim dilleri.csproj.AssemblyReference.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Sozcuk uygulama\obj\Debug\Rating yazilim dilleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Sozcuk uygulama\obj\Debug\Rating yazilim dilleri.csproj.CoreCompileInputs.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Sozcuk uygulama\obj\Debug\Rating yazilim dilleri.exe
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Sozcuk uygulama\obj\Debug\Rating yazilim dilleri.pdb
